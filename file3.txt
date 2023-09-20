@@ -1,0 +1,2 @@
+my sample file from Shell
+learning git hub considering shell as second person
