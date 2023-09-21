@@ -1,0 +1,2 @@
+7th file created to understand the merge concept
+it is not clear when i prepared the file in shell
